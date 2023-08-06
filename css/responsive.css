@@ -1,0 +1,282 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+  .navbar {
+    top: 0px;
+    padding: 10px 10px 20px;
+    background-color: black;
+  }
+  #banner__part {
+    padding: 100px 0 30px;
+  }
+  #banner__part .container {
+    text-align: center;
+  }
+  #banner__part .container .first__p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #banner__part .container h1 {
+    font-size: 36px;
+    font-style: normal;
+    width: auto;
+    padding: 4px 0 18px;
+  }
+  #banner__part .container .Laboris {
+    font-size: 18px;
+    line-height: 100%;
+    width: auto;
+  }
+  .navbar .phone__number {
+    justify-content: center;
+  }
+  .navbar .navbar-nav {
+    padding: 20px 0;
+  }
+  .sm-dot {
+    display: none;
+  }
+  .btn {
+    font-size: 14px;
+    padding: 8px 24px;
+  }
+  .container {
+    width: auto;
+  }
+  /* =========================================== */
+  #service__part {
+    padding: 50px 0;
+  }
+
+  #service__part .container h2 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  #service__part .container .main {
+    padding: 20px 15px;
+    border-radius: 10px;
+    background: #fff;
+    box-shadow: 0px 10px 20px 0px rgba(47, 21, 135, 0.06);
+    text-align: center;
+  }
+  #service__part .container .main img {
+    height: 200px;
+  }
+  #service__part .container .main h5 {
+    padding: 20px 0 10px;
+  }
+  #service__part .container .main p {
+    width: auto;
+    font-size: 14px;
+    line-height: 140%;
+  }
+  /* =========================================== */
+
+  #most-popular__part {
+    padding-bottom: 0px;
+  }
+
+  #most-popular__part .container .image {
+    text-align: center;
+  }
+  #most-popular__part .container .image img {
+    width: 150px;
+  }
+  #most-popular__part .container .text {
+    padding-left: 0;
+    text-align: center;
+  }
+
+  #most-popular__part .container .text h3 {
+    font-size: 30px;
+    text-align: center;
+    width: auto;
+    padding-top: 20px;
+  }
+  #most-popular__part .container .text .culpa {
+    width: auto;
+    font-size: 20px;
+    margin: 14px 0;
+  }
+  #most-popular__part .container .text p {
+    width: auto;
+    font-size: 14px;
+    line-height: 140%;
+    margin-bottom: 25px;
+  }
+  /* ======================================================== */
+
+  #UI-presentation__part {
+    padding: 260px 0 220px;
+  }
+  #UI-presentation__part .container h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  #UI-presentation__part .container .left__text h2 {
+    font-size: 38px;
+    width: auto;
+    text-align: center;
+  }
+  #UI-presentation__part .container .left__text .velit {
+    font-size: 14px;
+    line-height: 140%;
+    width: auto;
+    margin: 24px 0 50px;
+    text-align: center;
+  }
+  #UI-presentation__part .left__text .trial-btn {
+    display: flex;
+    flex-direction: column;
+    row-gap: 24px;
+  }
+  #UI-presentation__part .left__text .trial-btn a {
+    border: 1px solid var(--main-color, #ff6231);
+    padding: 10px 74px;
+  }
+  #UI-presentation__part .main {
+    padding: 35px 10px;
+    text-align: center;
+  }
+  #UI-presentation__part .container .main .month {
+    font-size: 14px;
+    line-height: 140%;
+    margin-bottom: 10px;
+  }
+  #UI-presentation__part .container .main h4 {
+    margin-bottom: 0px;
+  }
+  #UI-presentation__part .container .main .dollar span {
+    left: 166px;
+  }
+  /* ================================================= */
+  #about__us {
+    padding: 20px 0;
+  }
+  #about__us .container h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  #about__us .container .main__slider .slider p {
+    font-size: 14px;
+    line-height: 150%;
+    width: auto;
+    padding: 15px 0 20px;
+  }
+  .slick-slide img {
+    display: block;
+    width: 34px;
+  }
+  #about__us .container .main__slider .reviewer h5 {
+    font-size: 18px;
+  }
+  /* ======================================== */
+
+  #free-trial__part {
+    padding: 70px 0;
+  }
+
+  #free-trial__part .btn {
+    font-size: 12px;
+    padding: 4px 18px;
+  }
+  #free-trial__part .image img {
+    width: 100%;
+  }
+  #free-trial__part .image .free-trial__text {
+    left: 0;
+  }
+  #free-trial__part .trendy {
+    font-size: 12px;
+    line-height: 150%;
+  }
+  #free-trial__part .container h2 {
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 30px;
+    width: auto;
+    padding: 0px 30px 15px;
+  }
+  /* ================================================= */
+
+  #post__part {
+    padding: 0;
+  }
+
+  #post__part .posts {
+    display: flex;
+    flex-direction: column;
+  }
+  #post__part .posts .post {
+    padding: 36px 10px 30px 15px;
+    box-shadow: 0px 7px 5px 0px rgba(240, 242, 250, 1);
+    text-align: center;
+  }
+  #post__part .posts .post h2 {
+    font-size: 20px;
+    line-height: 90%;
+    width: auto;
+  }
+  #post__part .posts .post .text {
+    font-size: 14px;
+    line-height: 140%;
+    width: auto;
+    padding: 25px 0 22px;
+  }
+  #post__part .posts .post .share {
+    justify-content: center;
+  }
+  #post__part .posts .post .share .purple {
+    font-size: 24px;
+  }
+  #post__part .posts .post .share .fa-share-nodes {
+    font-size: 20px;
+  }
+  #post__part .posts .post .share p {
+    font-size: 12px;
+  }
+  /* ================================================ */
+
+  #subscribe__part .subscribe {
+    display: flex;
+    padding: 0 10px 30px 15px;
+    box-shadow: 0px 10px 5px 0px rgba(240, 242, 250, 1);
+    flex-direction: column;
+    row-gap: 30px;
+  }
+  #subscribe__part .subscribe .image img {
+    width: 100%;
+  }
+  #subscribe__part .subscribe .details h2 {
+    font-size: 24px;
+    line-height: 100%;
+  }
+  #subscribe__part .subscribe .details .text {
+    width: auto;
+    font-size: 14px;
+    line-height: 140%;
+  }
+
+  #subscribe__part .subscribe .details form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 20px;
+  }
+
+  #subscribe__part .subscribe .details form input {
+    padding: 10px 60px 13px 15px;
+    border-radius: 10px;
+    border: 1px solid #e6ebfc;
+    background: #fff;
+  }
+  /* ============================================= */
+
+  footer {
+    padding: 150px 0 23px;
+  }
+  footer .container ul {
+    flex-direction: column;
+    row-gap: 5px;
+    padding-left: 0;
+  }
+}
