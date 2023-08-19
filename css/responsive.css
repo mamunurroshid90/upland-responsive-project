@@ -145,8 +145,14 @@
   #UI-presentation__part .container .main h4 {
     margin-bottom: 0px;
   }
+
+  #UI-presentation__part .container .main .dollar {
+    position: relative;
+  }
+
   #UI-presentation__part .container .main .dollar span {
-    left: 166px;
+    position: absolute;
+    left: 56%;
   }
   /* ================================================= */
   #about__us {
